@@ -1,0 +1,30 @@
+{
+    "name": "migmae/claravel-localization",
+    "description": "Localization for Claravel",
+    "keywords": ["localization", "laravel", "php"],
+    "homepage": "https://github.com/migmae/claravel-localization",
+    "license": "MIT",
+    "version": "beta",
+    "authors": [
+        {
+            "name": "Miguel Maestre",
+            "email": "migmae@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "laravel/framework": "~5.0"
+    },
+    "require-dev": {
+
+    },
+    "autoload": {
+        "classmap": [
+        ],
+        "psr-0": {
+            "Migmae\\ClaravelLocalization": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
