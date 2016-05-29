@@ -4,7 +4,7 @@
     "keywords": ["localization", "laravel", "php"],
     "homepage": "https://github.com/migmae/claravel-localization",
     "license": "MIT",
-    "version": "beta",
+    "version": "0.0.1",
     "authors": [
         {
             "name": "Miguel Maestre",
